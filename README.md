@@ -1,5 +1,5 @@
 # sample-nlp-with-fire
-## Test APP
+## NLP Phrases APP
 
 This application simply extracts the words of the topics you are looking for in wikipedia.
 
